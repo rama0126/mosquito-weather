@@ -14,3 +14,5 @@
 
 -Model_temp_mos.ipynb : 평균기온과 모기채집량 분석모델 그래프
 
+-graph.file : 모델 그래프 사진
+
