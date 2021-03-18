@@ -1,11 +1,15 @@
 # mosquito-weather
 
-2학년 2학기 데이터 마이닝 및 시각화 프로젝트
+### 2학년 2학기 데이터 마이닝 및 시각화 프로젝트
 
-2nd semester of 2nd grade Data Mining and Visualization project
+### 2nd semester of 2nd grade Data Mining and Visualization project
 
 
-모기와 날씨의 상관관계 분석
+#### 주제 : 모기와 날씨의 상관관계 분석
+
+#### subject : Analysis correlation between Mosquito and Weather 
+
+##### 발표 자료 : DataMining and Visualization_Mosquito.pptx
 
 -getmosdata.py : 모기데이터얻기
 
