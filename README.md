@@ -1,5 +1,10 @@
 # mosquito-weather
 
+2학년 2학기 데이터 마이닝 및 시각화 프로젝트
+
+2nd semester of 2nd grade Data Mining and Visualization project
+
+
 모기와 날씨의 상관관계 분석
 
 -getmosdata.py : 모기데이터얻기
